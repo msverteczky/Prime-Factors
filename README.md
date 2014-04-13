@@ -10,5 +10,6 @@ For example:
 	12 -> [2,2,3]
 	15 -> [3,5]
 	
-	[Source: http://cyber-dojo.org/]
+
+Source: http://cyber-dojo.org/
 	
