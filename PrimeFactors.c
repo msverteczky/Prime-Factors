@@ -1,7 +1,7 @@
 #include "primefactors.h"
 
 int factor(int num){
-	int fact;			//prime factors of input "num", it's value is not constant	
+	int fact;		//prime factors of input "num", it's value is not constant	
 	int divnum=0;		//number of elements in factorization of "num"
 	
 	
